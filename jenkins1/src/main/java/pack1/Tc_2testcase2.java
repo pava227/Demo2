@@ -7,6 +7,7 @@ public class Tc_2testcase2 {
 	@Test
 	public void m2()
 	{
+		//testcase
 		Reporter.log("testcase2 running",true);
 	}
 
